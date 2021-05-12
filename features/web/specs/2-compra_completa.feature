@@ -1,6 +1,10 @@
 #language: pt
 
 Funcionalidade: Comprar na plataforma
+  Sendo um cliente
+  Quero comprar um produto
+  Para que eu possa fazer uso do mesmo
+
 
   @compra_valida
   Cenario: Usuário cadastrado realiza compra por depósito com sucesso
