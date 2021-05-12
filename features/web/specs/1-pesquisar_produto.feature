@@ -1,6 +1,9 @@
 #language: pt
 
 Funcionalidade: Pesquisar por produto
+  Sendo um cliente
+  Quero pesquisar produto
+  Para que eu possa ver suas informações antes da compra
 
   @pesquisa_valida
   Cenario: Pesquisar por produto válido
